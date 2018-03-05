@@ -1,0 +1,6 @@
+
+Destination    Flight Route from O     Total Cost
+    N              O J N               450
+    M              O O J N L M              1300
+    L              O J N L               700
+    J              O J               100
